@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.edu.atitus</groupId>
-    <artifactId>currency_service</artifactId>
+    <artifactId>currencyservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>currency_service</name>
+    <name>currencyservice</name>
     <description/>
     <url/>
     <licenses>

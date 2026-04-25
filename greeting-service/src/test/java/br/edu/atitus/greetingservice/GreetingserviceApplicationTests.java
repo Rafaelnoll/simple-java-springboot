@@ -1,10 +1,10 @@
-package br.edu.atitus.currency_service;
+package br.edu.atitus.greetingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CurrencyServiceApplicationTests {
+class GreetingserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
