@@ -22,6 +22,9 @@ public class ProductEntity {
 
     private Integer stock;
 
+    @Column(name = "image_url")
+    private String imageURL;
+
     public Long getId() {
         return id;
     }
